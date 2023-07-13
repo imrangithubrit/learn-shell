@@ -1,7 +1,7 @@
 sample()
 {
     echo Hello
-    return 1
+    return 100
     echo bye
 }
 sample
